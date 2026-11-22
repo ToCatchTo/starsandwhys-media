@@ -1,0 +1,68 @@
+{
+  "seconds": 38.7,
+  "voice": "am_michael",
+  "frames": 929,
+  "fps": 24,
+  "render_seconds": 1218.2,
+  "render_per_frame": 1.311,
+  "voice_seconds": 12.8,
+  "compose_seconds": 77.8,
+  "total_seconds": 1431.9,
+  "cpus": 2,
+  "credit": "3D textures: Solar System Scope (CC BY 4.0)",
+  "shots": [
+    {
+      "t": 0.0,
+      "frame": [
+        "jupiter"
+      ]
+    },
+    {
+      "t": 2.57,
+      "frame": [
+        "earth"
+      ]
+    },
+    {
+      "t": 9.19,
+      "frame": [
+        "earth",
+        "jupiter"
+      ]
+    },
+    {
+      "t": 18.25,
+      "frame": [
+        "earth",
+        "jupiter"
+      ]
+    },
+    {
+      "t": 21.46,
+      "frame": [
+        "earth",
+        "jupiter",
+        "sun"
+      ]
+    },
+    {
+      "t": 28.36,
+      "frame": [
+        "sun"
+      ]
+    }
+  ],
+  "script": [
+    "How big is Jupiter, really?",
+    "Start with Earth.",
+    "Our whole world is about 12,700 kilometers wide.",
+    "Now meet Jupiter.",
+    "It is 11 times wider than Earth.",
+    "You could pack about 1,300 Earths inside it.",
+    "But even Jupiter is tiny next to the Sun.",
+    "Our star is about 10 times wider than Jupiter.",
+    "More than a million Earths would fit inside it.",
+    "The Sun only looks small because it is 150 million kilometers away.",
+    "Follow Stars and Whys for more space whys."
+  ]
+}
